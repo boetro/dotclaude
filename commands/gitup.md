@@ -18,6 +18,12 @@ Instructions
 - Check if .git exists
 - If not: git init
 - Set up remote origin
+5. Verify there are no sensitive changes that shouldn't be pushed to GitHub
+- Log files
+- .env files
+- Secrets
+- Credentials
+- etc..
 4. Initial commit (if needed)
 - Check for existing commits
 - If none: git add . && git commit -m "Initial commit"

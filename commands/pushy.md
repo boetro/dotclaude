@@ -12,6 +12,7 @@ Push recent changes to git repository with comprehensive documentation, then rec
    - Run `git status` to see modified files
    - Run `git diff` to review actual changes
    - Summarize what was accomplished
+   - Verify there are no sensitive changes that shouldn't be pushed to GitHub (secrets, .env, etc..)
 
 2. **Commit with Documentation**
    - Stage all changes: `git add -A`
