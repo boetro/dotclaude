@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
-    "allow": [],
-    "ask": ["Bash(rm:*)", "Bash(git:*)", "Bash(gh:*)"]
+    "allow": ["Bash(git:*)"],
+    "ask": ["Bash(rm:*)", "Bash(git commit:*)", "Bash(git add:*)", "Bash(git push:*)", "Bash(git pull:*)", "Bash(gh:*)"]
   },
   "statusLine": {
     "type": "command",
