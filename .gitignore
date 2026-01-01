@@ -1,0 +1,27 @@
+# Debug and logs
+debug/
+
+# Local caches
+file-history/
+history.jsonl
+session-env/
+shell-snapshots/
+stats-cache.json
+statsig/
+telemetry/
+todos/
+
+# Lock files
+.update.lock
+
+# Plans (generated per-session)
+plans/
+
+# IDE integration (local)
+ide/
+
+# Project-specific settings (local)
+projects/
+
+# Plugins (not used)
+plugins/
