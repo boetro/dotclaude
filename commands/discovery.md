@@ -42,6 +42,6 @@ Provide:
 4. **Project Structure** - initial file/folder layout
 5. **Implementation Roadmap** - phased milestones
 6. **Risk Assessment** - potential issues and solutions
-7. **Export finalized design / report** - finalized design / report should be written and date to /Users/calebvandyke/code/designs/<project-name>/design.md. The file should include a frontmatter section at the top with the following fields: created_at, last_updated_at, status (status should be set to DRAFT) 
+7. **Export finalized design / report** - finalized design / report should be written and date to /Users/calebvandyke/code/obsidian/designs/<project-name>/design.md. The file should include a frontmatter section at the top with the following fields: created_at, last_updated_at, status (status should be set to DRAFT) 
 
 Challenge assumptions. Suggest best practices. Prioritize security from day one.

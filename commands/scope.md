@@ -48,4 +48,4 @@ This scope enables a simple workflow:
 
 ## Output
 
-Create a comprehensive markdown file that serves as both detailed scope and actionable checklist. The scope document to /Users/calebvandyke/code/designs/<project-name>/scope.md. The file should include a frontmatter section at the top with the following fields: created_at, last_updated_at.
+Create a comprehensive markdown file that serves as both detailed scope and actionable checklist. The scope document to /Users/calebvandyke/code/obsidian/designs/<project-name>/scope.md. The file should include a frontmatter section at the top with the following fields: created_at, last_updated_at.
