@@ -1,6 +1,6 @@
 ---
-name: Search for designs / scopes for a project
-description: Find relevant designs and scopes for a project.
+name: Find for designs / scopes for a project
+description: Find relevant designs and scopes for a project. Should be used whenever a user mentions a design / scope doc for a project.
 ---
 
 All designs and scope documents can be found in `/Users/calebvandyke/code/obsidian/designs/*`. There will be one directory for each project, and within each directory there may be multiple files relate to the project. 
