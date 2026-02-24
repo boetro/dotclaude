@@ -25,3 +25,8 @@ projects/
 
 # Plugins (not used)
 plugins/
+
+paste-cache/
+backups/
+cache/
+tasks/
